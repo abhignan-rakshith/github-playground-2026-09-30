@@ -2,7 +2,7 @@
 
 A practice repository for learning how to collaborate and automate work on GitHub.
 
-## Learning goals
+## Skills being practiced
 
 - Tracking work with issues
 - Proposing changes through pull requests
